@@ -8,6 +8,9 @@ program tsunami
   real :: dx ! grid spacing [m]
   real :: c ! phase speed [m/s]
 
+  i = 0
+  n = 0
+
   grid_size = 100
   num_time_steps = 100
 
