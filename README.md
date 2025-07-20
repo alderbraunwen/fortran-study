@@ -98,7 +98,7 @@ Parallel processing is when you take a single process, a big computational probl
 >  Most PDE solvers are nonembarrassingly parallel. The amount of communication vs. computation dictates how well a parallel
 problem can scale. The objective for most physical solvers is thus to minimize communication and maximize computation.
 
-![Categories of parallel problem](assets/parallel_problems.png)
+![Categories of parallel problem](./notes/assets/parallel_problems.png)
 
 Parallel Fortran programming in the past has been done either using the OpenMP directives for shared-memory computers only, or with the Message Passing Interface (MPI) for both shared and distributed memory computers.
 

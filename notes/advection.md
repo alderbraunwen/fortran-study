@@ -2,7 +2,7 @@
 
 The transfer of heat, matter of some physical quantity from one point to another through a fluid, due to the movement of the fluid itself. 
 
-![alt text](../assets/advection.png)
+![alt text](./assets/advection.png)
 
 Take the ocean, for example. When parts of the ocean warm faster than their surroundings due to **differential heating**, the air above the warmer region absorbs heat by **conduction** and rises. This rising air creates a **low-pressure region** at the surface. Because of the pressure difference between this low-pressure region and the surrounding **(relatively) high-pressure regions**, a **pressure gradient force (PGF)** is established. This force causes air to move from the high-pressure area toward the low-pressure area. The horizontal movement of air is what we call **wind**.
 
